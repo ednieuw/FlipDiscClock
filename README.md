@@ -1,7 +1,15 @@
-# FlipDiscClock
-Nano ESP32 code for FlipDisc clock
+# Nano ESP32 code for FlipDisc clock.
+
+The Flipo clock with this software connects to the internet to receive time from it. <br>
+Time can be set to the timezone the clocks operater for. Daylight saving is taking care for.
+If no WIFI is available the clock can be set to operate with a precise internal clock. No daylight saving then.
+
+To enter the WIFI router's SSID and password the clock must be connected to a PC with with a serial terminal program or with a BLE serial terminal app that run on IOS or Android.
+The software Version V006 is working and receiving time from the internet.<br>
+Some functionalities are not working yet or contains minor bugs. 
 
 The software of this Flipo clock is based on the Arduino Nano ESP32 word clock and the control and functionality is similar.<br>
+While this page is still under construction:<br>
 See here: https://github.com/ednieuw/Arduino-ESP32-Nano-Wordclock#control-of-the-clock
 
 How to buy the clock can be found here: https://flipo.io/ <br>
