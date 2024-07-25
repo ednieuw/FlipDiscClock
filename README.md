@@ -1,11 +1,12 @@
 # Arduino Nano ESP32 code for FlipDisc clock.
 
 The Flipo clock with this software connects to the internet to receive time from it. <br>
-Time can be set to the timezone the clocks operater for. Daylight saving is taking care for.<br>
-If no WIFI is available the clock can be set to operate with a precise internal clock. No daylight saving then.<br>
-Flipo display can be turned off and silenced between two times or directly.<br>
+Time can be set to the timezone the clocks operates in. Daylight saving is taking care for.<br>
+If no WIFI is available the clock can be set to operate with a precise internal RTC-clock. No daylight saving then.<br>
+Flipo display can be turned off and silenced between two times or turn on and off directly.<br>
 The separator flipo can tick per second or show 15, 30, 45 seconds.<br>
-Settings are stored in memory of the microcontroller.
+Settings are stored in memory of the microcontroller.<bt>
+A menu to enter settings or commands can be accessed via a serial port, bluetooth with phone tablet of pc, or a html page.
 
 The software of this Flipo clock is based on the Arduino Nano ESP32 word clock and the control and functionality is similar.<br>
 While this page is still under construction:<br>
