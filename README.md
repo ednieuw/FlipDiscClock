@@ -23,6 +23,7 @@ and here: https://github.com/marcinsaj
 To enter the WIFI router's SSID and password the clock must be connected to a PC with with a serial terminal program or with a BLE serial terminal app that run on IOS or Android.
 
 Use the IOS app for iPhone or iPad: <a href="https://apps.apple.com/nl/app/ble-serial-pro/id1632245655?l=en">BLE Serial Pro</a>. <br />
+Or the free BLEserial nRF: <https://apps.apple.com/nl/app/bleserial-nrf/id1632235163?l=en-GB>BLE serial nRF
 Turn on Fast BLE with option Z in the menu. 
 
 For Android use: <a href="https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal">Serial Bluetooth terminal</a>. <br />
