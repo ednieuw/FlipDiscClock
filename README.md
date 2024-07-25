@@ -2,7 +2,7 @@
 
 The Flipo clock with this software connects to the internet to receive time from it. <br>
 Time can be set to the timezone the clocks operater for. Daylight saving is taking care for.<br>
-If no WIFI is available the clock can be set to operate with a precise internal clock. No daylight saving then.
+If no WIFI is available the clock can be set to operate with a precise internal clock. No daylight saving then.<br>
 Flipo display can be turned off and silenced between two times or directly.<br>
 The separator flipo can tick per second or show 15, 30, 45 seconds.<br>
 Settings are stored in memory of the microcontroller.
