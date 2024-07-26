@@ -9,15 +9,15 @@ The Flip disk clock with this software connects to the internet to receive time 
 - The separator flipo can tick per second or show 15, 30, 45 seconds.<br>
 - Settings are stored in memory of the microcontroller.<bt>
 - A menu to enter settings or commands can be accessed via a serial port, bluetooth with phone tablet of pc, or a html page.
+- Flipdisc display changing speed in menu
+- Display if the clock in using the RTC or NTP time at startup
 
 The software of this Flip disc clock is based on the Arduino Nano ESP32 word clock and the control and functionality is similar.<br>
 While this page is still under construction:<br>
 See here: https://github.com/ednieuw/Arduino-ESP32-Nano-Wordclock#control-of-the-clock
 
 To do:
-- buttons to set the RTC time if no WIFI/NTP available and switching 
-- display if the clock in using the RTC or NTP time at startup
-- flipo display changing speed in menu
+- buttons to set the RTC time if no WIFI/NTP available and switching between RTC and NTP time 
 - write a manual
 
 Where to obtain the clock can be found here: https://flipo.io/ <br>
