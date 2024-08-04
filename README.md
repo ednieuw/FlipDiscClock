@@ -5,12 +5,12 @@
 The Flip disk clock with this software connects to the internet to receive time from it. <br>
 - Time can be set to the time zone the clocks operates in. Daylight saving is taking care for.<br>
 - If no WIFI is available the clock can be set to operate with a precise internal RTC-clock. No daylight saving then.<br>
-- Flipo display can be turned off and silenced between two times or turn on and off directly.<br>
-- The separator flipo can tick per second or show 15, 30, 45 seconds.<br>
+- Flipo display can be turned off and silenced between two times or be turned on and off directly.<br>
+- The separator 1x3 flip disc can be the standard two dots, tick per second or show 15, 30, 45 seconds.<br>
 - Settings are stored in memory of the microcontroller.<bt>
-- A menu to enter settings or commands can be accessed via a serial port, bluetooth with phone tablet of pc, or a html page.
-- Flipdisc display changing speed in menu
-- Display if the clock in using the RTC or NTP time at startup
+- A menu to enter settings or commands can be accessed via thr serial port, bluetooth with phone tablet of pc, or a html page.
+- Flipdisc display changing speed in menu.
+- Display if the clock in using the RTC or NTP time at startup.
 
 The software of this Flip disc clock is based on the Arduino Nano ESP32 word clock and the control and functionality is similar.<br>
 While this page is still under construction:<br>
