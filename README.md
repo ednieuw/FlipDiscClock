@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/f076506d-4b0f-4e24-8999-a8cfd5927b91)
 
+V012 is an update that uses the latest NIMBLE 2 library and print the time exact on the minute instead of 0ne second later.
+
 The Flip disk clock with this software connects to the internet to receive time from it. <br>
 - Time can be set to the time zone the clocks operates in. Daylight saving is taking care for.<br>
 - If no WIFI is available the clock can be set to operate with a precise internal RTC-clock. No daylight saving then.<br>
